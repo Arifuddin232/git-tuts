@@ -1,0 +1,1 @@
+print("mohammed arifuddin+entri course")
